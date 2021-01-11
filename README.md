@@ -1,7 +1,9 @@
-# React Firestore CRUD App example
+# React Firestore CRUD App example | Firebase Cloud Firestore
 
 For instruction, please visit:
-> [React Firestore CRUD App example | Firebase Cloud Firestore](https://bezkoder.com/react-firestore-crud/)
+> [React Firestore CRUD App example (using React Components)](https://bezkoder.com/react-firestore-crud/)
+
+> [React Hooks Firestore example: CRUD App](https://bezkoder.com/react-hooks-firestore/)
 
 More practice:
 > [React Firebase CRUD App with Realtime Database](https://bezkoder.com/react-firebase-crud/)
@@ -9,6 +11,14 @@ More practice:
 > [React (Components) CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/)
 
 > [React (Hooks) CRUD example to consume Web API](https://bezkoder.com/react-hooks-crud-axios-api/)
+
+> [React Pagination example](https://bezkoder.com/react-pagination-material-ui/)
+
+> [React File Upload example](https://bezkoder.com/react-file-upload-axios/)
+
+> [React JWT Authentication & Authorization example](https://bezkoder.com/react-jwt-auth/)
+
+> [React + Redux: JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
 
 Fullstack with Node.js Express:
 > [React.js + Node.js Express + MySQL](https://bezkoder.com/react-node-express-mysql/)
